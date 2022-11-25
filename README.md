@@ -2,4 +2,6 @@
 
 By installing this script on tampermonkey you can automatically login on the abes wifi login page by just entering the website url.
 
-#Do enter your username and password properly.
+<html>
+  <h1>Do enter your username and password properly.</h1>
+</html>
