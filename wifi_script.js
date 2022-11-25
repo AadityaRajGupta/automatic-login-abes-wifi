@@ -17,3 +17,5 @@
     document.querySelector("#password").setAttribute("value","enter your password here");
     document.querySelector("#loginbutton").click();
 })();
+
+//contributed by Aaditya Raj Gupta
